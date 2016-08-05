@@ -28,7 +28,7 @@ rss: "/atom.xml"
 menu:
   home: /
   #categories: /categories
-  #about: /about
+  about: /about
   archives: /archives
   tags: /tags
   #commonweal: /404.html
@@ -58,8 +58,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 
@@ -105,8 +105,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  # position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -146,7 +146,7 @@ scroll_to_more: true
 # Automatically Excerpt
 auto_excerpt:
   enable: true
-  length: 150
+  length: 670
 
 # Use Lato font
 use_font_lato: true
